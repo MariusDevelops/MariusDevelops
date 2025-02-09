@@ -1,6 +1,7 @@
-## Hi 👋! I'm Marius!
+# Hi there! 👋
 
-### Currently working on my GitHub portfolio. [Check it out!](https://mariusdevelops.github.io/) 🚀
+### Currently, I am working on my project portfolio. <a href="https://mariusdevelops.github.io/" target="_blank">Check it out!</a> 🚀
+
 
 <br>
 
