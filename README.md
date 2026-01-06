@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### Currently, I am working on my project portfolio. <a href="https://mariusdevelops.github.io/" target="_blank">Check it out!</a> 🚀
+### Currently, I am working on my project portfolio. <a href="https://mariusdevelops.vercel.app/" target="_blank">Check it out!</a> 🚀
 
 
 <br>
